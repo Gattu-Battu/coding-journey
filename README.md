@@ -21,10 +21,10 @@ Incomplete ideas, confusion, and failed attempts are part of the process and are
 
 ## Structure (Evolving)
 
-logs/ # Daily or weekly learning notes
-projects/ # Small experiments and practice builds
-notes/ # Concepts, explanations, and references
-mistakes/ # Things that broke and what I learned fixing them
+- logs/ # Daily or weekly learning notes
+- projects/ # Small experiments and practice builds
+- notes/ # Concepts, explanations, and references
+- mistakes/ # Things that broke and what I learned fixing them
 
 ## Goals
 
